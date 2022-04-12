@@ -1,0 +1,4 @@
+The name of my project is Food recipe app. 
+In this app we can find recipes of delicious food.
+also i am going to add "TEXT TO SPEECH" feature which will help the users to listen to the recipe.
+also "DICTIONARY APP" will help in finding the meaning of the ingredients.
